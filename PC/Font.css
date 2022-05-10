@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.gaia-argoui-app-menu-add {
+    display: none;
+}
+.row-gaia {
+    margin-bottom: 6px;
+}
+
+@media print {
+　.contents-gaia {
+　　font-family: "Arial", "メイリオ";
+　　/*font-size: 16px;*/
+}
+}
